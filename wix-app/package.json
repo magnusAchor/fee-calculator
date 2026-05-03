@@ -1,0 +1,45 @@
+
+{
+
+  "name": "fee-calculator-wix-app",
+
+  "version": "1.0.0",
+
+  "private": true,
+
+  "scripts": {
+
+    "dev": "wix dev",
+
+    "build": "wix build",
+
+    "release": "wix release"
+
+  },
+
+  "dependencies": {
+
+    "@wix/dashboard": "latest",
+
+    "@wix/sdk": "latest",
+
+    "@wix/design-system": "latest",
+
+    "@wix/wix-ui-icons-common": "latest",
+
+    "react": "^18.2.0",
+
+    "react-dom": "^18.2.0"
+
+  },
+
+  "devDependencies": {
+
+    "@wix/cli": "latest",
+
+    "typescript": "^5.3.3"
+
+  }
+
+}
+
