@@ -16,7 +16,7 @@ build/
 
 # Wix CLI
 .wix/
-.wix-app/
+wix-app/
 
 # macOS
 .DS_Store
