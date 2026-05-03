@@ -12,17 +12,19 @@ products and orders — all from inside their Wix dashboard.
 
 ## 🌐 Live Demo
 
-- **Install on your Wix site:** [Click to Install](https://www.wix.com/app-market/add-app?appId=28013f7a-c480-4f65-9689-c795ee0fc25b)
+- **Install on your Wix site:** [Click to Install](https://wix.to/reyEFUp)
 - **Backend API:** https://backend-pi-six-60.vercel.app/health
 
 ---
 
 ## 📸 Screenshots
 
-> Fee Calculator Dashboard inside Wix
-> merchants can create, edit, and delete fee rules directly from their Wix dashboard.
+![Fee Calculator Dashboard](./assets/dashboard.png)
+![Add Rule Modal](./assets/add-rule.png)
 
 ---
+
+
 
 ## 🧠 What Problem Does This Solve?
 
